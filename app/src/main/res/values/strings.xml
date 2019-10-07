@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinMVPDagger2Demo</string>
+    <string name="enter_english_statement">Enter English Statement</string>
+</resources>
